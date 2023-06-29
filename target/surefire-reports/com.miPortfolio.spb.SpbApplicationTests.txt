@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.miPortfolio.spb.SpbApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 117.085 s - in com.miPortfolio.spb.SpbApplicationTests
