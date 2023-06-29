@@ -1,7 +1,6 @@
 com\miPortfolio\spb\security\entity\Rol.class
 com\miPortfolio\spb\dto\dtoEstudioTic.class
 com\miPortfolio\spb\service\PersonaService.class
-com\miPortfolio\spb\WebConfig.class
 com\miPortfolio\spb\model\EstudioFormal.class
 com\miPortfolio\spb\dto\dtoBlanda.class
 com\miPortfolio\spb\model\Redes.class
